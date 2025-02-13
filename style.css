@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     /* background-color: #f4f4f4; */
-    background-image: url(/JavaScript/DOM/Activity/assets/cam2.jpg);
+    background-image: url(cam2.jpg);
     margin: 0;
     padding: 20px;
     background-size: cover;
