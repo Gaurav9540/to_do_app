@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    /* background-color: #f4f4f4; */
+    background-image: url(/JavaScript/DOM/Activity/assets/cam2.jpg);
+    margin: 0;
+    padding: 20px;
+    background-size: cover;
+}
+
+h1 {
+    color: #333;
+}
+
+input {
+    padding: 10px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+li {
+    background: white;
+    padding: 10px;
+    margin: 5px auto;
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.delete {
+    background-color: #dc3545;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.delete:hover {
+    background-color: #c82333;
+}
